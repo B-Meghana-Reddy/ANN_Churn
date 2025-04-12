@@ -1,16 +1,7 @@
-<<<<<<< HEAD
-tensorflow-cpu==2.15.0
-pandas 
-numpy
-scikit-learn
-tensorboard
-matplotlib
-=======
 tensorflow==2.15.0
 pandas 
 numpy
 scikit-learn
 tensorboard
 matplotlib
->>>>>>> eb6eeaa2a152acbe292ad8e19300d50f7c6a8fb3
 streamlit
